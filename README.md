@@ -14,7 +14,7 @@ Should be compatible with any Chromium browser, such as Chrome, Edge, Opera, Bra
 ## About
 Converts raw text (currently supports plaintext files only) into base64 strings that are saved as individual bookmarks using the "Bookmarks" file in a user's profile directory. The data can then be reconstructed from those same bookmarks once they have been synced to a remote system (which is usually instant).
 
-Created by [David Prefer](https://www.linkedin.com/in/davidprefer) (pronounced Pree-fer) as a proof of concept for an academic research paper ("[Bookmark Bruggling: Novel Data Exfiltration with Brugglemark](https://www.sans.org/white-papers/)").
+Created by [David Prefer](https://www.linkedin.com/in/davidprefer) (pronounced Pree-fer) as a proof of concept for an academic research paper ("Bookmark Bruggling: Novel Data Exfiltration with Brugglemark"). The paper can be found at [sans.edu/cyber-research/](https://www.sans.edu/cyber-research/bookmark-bruggling-novel-data-exfiltration-with-brugglemark/) or [sans.org/white-papers/](https://www.sans.org/white-papers/bookmark-bruggling-novel-data-exfiltration-with-brugglemark/).
 
 ## Usage
 ### Write Data to Bookmarks
